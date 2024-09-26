@@ -9,16 +9,19 @@
 
       <div class="weather-info">
         <div class="weather-info__text">
-          <p class="card"></p>
-          <p class="card"></p>
-          <p class="card"></p>
+          <p class="card">Санкт-Петербург</p>
+          <p class="card">15</p>
+          <p class="card">Дождь</p>
         </div>
       </div>
 
     </div>
 
     <div class="weather-bg">
-      
+      <img src="./assets/default.jpg" alt="app background">
+      <img src="./assets/sun.jpg" alt="sunny">
+      <img src="./assets/rain.jpg" alt="rain">
+      <img src="./assets/snow.jpg" alt="snow">
     </div>
   </div>
 </template>
