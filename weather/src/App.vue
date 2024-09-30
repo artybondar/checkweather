@@ -18,10 +18,10 @@
     </div>
 
     <div class="weather-bg">
-      <img src="./assets/default.jpg" alt="app background">
-      <img src="./assets/sun.jpg" alt="sunny">
-      <img src="./assets/rain.jpg" alt="rain">
-      <img src="./assets/snow.jpg" alt="snow">
+      <img class="weather-bg__img bg" src="./assets/default.jpg" alt="app background">
+      <img class="weather-bg__img sun" src="./assets/sun.jpg" alt="sunny">
+      <img class="weather-bg__img rain" src="./assets/rain.jpg" alt="rain">
+      <img class="weather-bg__img snow" src="./assets/snow.jpg" alt="snow">
     </div>
   </div>
 </template>
